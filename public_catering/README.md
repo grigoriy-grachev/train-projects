@@ -23,5 +23,6 @@ pandas
 pyplot 
 seaborn
 matplotlib 
+beautifulsoup
 API Яндекс.Геокодер
-beautifulsoup 
+ 
