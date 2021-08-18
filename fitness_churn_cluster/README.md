@@ -46,3 +46,5 @@ scipy
 ### Другие особенности взаимодействия с клиентами
 - вести допродажи дополнительных услуг
 - развивать программу «приведи друга» - в ней пока только 15% оттока
+
+Просмотр вне github https://nbviewer.jupyter.org/github/grigoriy-grachev/train-projects/blob/main/fitness_churn_cluster/fitness_churn_cluster.ipynb
